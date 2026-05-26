@@ -1,4 +1,4 @@
-![Системи числення](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Binary_counter.gif/220px-Binary_counter.gif)
+![Systems of Notation](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 # Корисні ресурси
 
