@@ -1,9 +1,17 @@
-![Зображення систем числення](https://it-shkola.com.ua/wp-content/uploads/2020/03/binary-system.jpg)
+![Системи числення](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Binary_counter.gif/220px-Binary_counter.gif)
 
 # Корисні ресурси
 
-1. [Відео: Як працюють системи числення](https://www.youtube.com/results?search_query=системи+числення)
-2. [Онлайн-конвертер систем числення](https://www.rapidtables.com/convert/number/base-converter.html)
-3. [Стаття: Двійкова система на Wikipedia](https://uk.wikipedia.org/wiki/Двійкова_система_числення)
+Тут зібрані додаткові матеріали для поглибленого вивчення теми "Системи числення".
 
-[Повернутися на головну](../README.md)
+### 🎥 Відеоматеріали
+* [Як працюють системи числення (YouTube)](https://www.youtube.com/results?search_query=системи+числення) — візуальне пояснення логіки переведення чисел.
+
+### 🛠️ Інструменти
+* [Онлайн-конвертер систем числення](https://www.rapidtables.com/convert/number/base-converter.html) — зручний сервіс для перевірки власних розрахунків.
+
+### 📚 Література та статті
+* [Двійкова система на Wikipedia](https://uk.wikipedia.org/wiki/Двійкова_система_числення) — детальна історія та математичне обґрунтування.
+
+---
+[🏠 Повернутися на головну](../README.md)
