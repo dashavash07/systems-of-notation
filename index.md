@@ -1,14 +1,3 @@
-<style>
-  body {
-    background-color: #f0f4f8; /* Легкий блакитний відтінок фону */
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-  h1 { color: #6366f1; border-bottom: 2px solid #6366f1; }
-  h2 { color: #1e293b; margin-top: 30px; }
-  a { color: #6366f1; text-decoration: none; font-weight: bold; }
-  a:hover { text-decoration: underline; }
-</style>
-
 # Навчальний модуль: Системи числення та переведення
 
 **Предмет:** Інформатика, 10-11 клас  
